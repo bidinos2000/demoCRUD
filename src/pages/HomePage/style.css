@@ -1,0 +1,24 @@
+.container {
+    margin-top: 40px;
+    padding-right: 100px;
+    padding-left: 0;
+}
+
+.dark {
+    background: #051f38;
+}
+
+.light {
+    background: #b9f8ef;
+}
+
+.rd {
+    height: 100%;
+}
+
+.btnAddStaff {
+    position: fixed;
+    margin-left: 1100px;
+    margin-top: 40px;
+    z-index: 1;
+}
